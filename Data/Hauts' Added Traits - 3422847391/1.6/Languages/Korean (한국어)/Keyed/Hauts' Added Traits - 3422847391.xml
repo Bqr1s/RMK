@@ -166,8 +166,8 @@
   <HVT_WokeByLeviathan>레비아탄 초월자로서, {PAWN_nameDef}(이)가 새로운 각성을 이루었습니다!</HVT_WokeByLeviathan>
   <!--English=Revelation-->
   <HVT_AboutTransingLabel>계시</HVT_AboutTransingLabel>
-  <!--English={PAWN_nameDef} knows, somehow, that awakening is not the full expression of {PAWN_possessive} potential; under the right conditions, {PAWN_pronoun} may be able to transcend, unlocking new abilities. {PAWN_pronoun} senses there are many possible ways to transcend, and is certain of one such method:-->
-  <HVT_AboutTransingTextPrefix>{PAWN_nameDef}(은)는 왠지는 몰라도 각성이 자신의 잠재력을 완전히 발휘하는 것이 아니라는 것을 알고 있습니다. 적절한 조건이 갖춰지면, {PAWN_pronoun}(은)는 초월하여 새로운 능력을 해제할 수 있습니다. {PAWN_pronoun}(은)는 초월할 수 있는 방법은 여러 가지가 있다고 직감으로 알고 있으며, 그중 한 가지 방법은 확실하게 알고 있습니다.</HVT_AboutTransingTextPrefix>
+  <!--English={PAWN_nameDef} knows, somehow, that awakening is not the full expression of {PAWN_possessive} potential; under the right conditions, {PAWN_pronoun} may be able to transcend, unlocking new abilities. {PAWN_pronoun} has conceived of a method of transcendence (and senses that there are multiple other methods that could work as well):-->
+  <HVT_AboutTransingTextPrefix>{PAWN_nameDef}(은)는 왠지는 몰라도 지금의 각성이 자신의 잠재력을 완전히 발휘하는 것이 아니라는 것을 알고 있습니다. 적절한 조건이 갖춰지면, {PAWN_pronoun}(은)는 초월하여 새로운 능력을 해제할 수 있습니다. {PAWN_pronoun}(은)는 초월할 수 있는 한 가지 방법을 고안해냈습니다. (또한, 이외에도 효과적인 다른 방법들이 여럿 존재한다는 것을 느끼고 있습니다.)</HVT_AboutTransingTextPrefix>
   <!--English=There is a slim chance to achieve transcendence by hearing the dying screams of an anima tree.-->
   <HVT_AboutTransingAlpha>영혼나무의 죽는 비명 소리를 들으면 극히 낮은 확률로 초월에 도달할 수 있습니다.</HVT_AboutTransingAlpha>
   <!--English=It is possible ー though not guaranteed ー to achieve transcendence by dying, or being resurrected.-->
@@ -366,6 +366,8 @@
   <HVT_EverlivingMightRez>{PAWN_nameDef}(은)는 방금 사망했지만, 이것이 {PAWN_possessive} 최후가 아닐 수도 있습니다. {PAWN_possessive} 재생력은 {PAWN_objective} 부활시킬 잠재력이 있지만, 부활이 보장된 건 아닙니다. 부활은 최대 1일이 걸립니다.</HVT_EverlivingMightRez>
   <!--English=Unnatural regeneration has brought {PAWN_nameDef} back to life!-->
   <HVT_EverlivingRez>부자연스러운 재생력으로 {PAWN_nameDef}(이)가 부활했습니다!</HVT_EverlivingRez>
+  <!--English={PAWN_nameDef} compromised-->
+  <HVT_CompromisedLetter>{PAWN_nameDef} 장악당함</HVT_CompromisedLetter>
   <!--English=The psychoーtechnological programming hidden in {PAWN_possessive} consciousness has been activated by a Horaxian cultist, causing {PAWN_nameDef} to rejoin the cult.-->
   <HVT_GotCompromised>{PAWN_possessive} 의식 속에 숨겨져있던 정신기술적 조정이 호락스 신도에 의해 활성화되어 {PAWN_nameDef}(은)는 다시 사이비에 합류하게 되었습니다.</HVT_GotCompromised>
   <!--English={PAWN_possessive} psychic sensitivity has undergone an immense, multiplicative boost.-->

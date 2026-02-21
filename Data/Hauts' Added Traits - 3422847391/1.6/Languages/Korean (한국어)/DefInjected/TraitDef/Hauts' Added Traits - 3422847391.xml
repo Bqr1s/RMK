@@ -582,8 +582,8 @@
   <HVT_TTraitGoldfinch.degreeDatas.0.description>하루에 한 번, 매일 {PAWN_nameDef}(은)는 완벽하게 건강한 상태로 재생되며, 다음에 받을 피해에 면역이 되고, 잠시 동안 황홀감을 경험합니다. 이때 {PAWN_possessive} 의류와 사용 중인 무기도 부분적으로 수리됩니다.</HVT_TTraitGoldfinch.degreeDatas.0.description>
   <!--Original=haastian psychic-->
   <HVT_TTraitHaast.degreeDatas.0.label>초능력 하스티아</HVT_TTraitHaast.degreeDatas.0.label>
-  <!--Original={PAWN_nameDef} is a giant among psycasters, boasting massively expanded psychic sensitivity.-->
-  <HVT_TTraitHaast.degreeDatas.0.description>{PAWN_nameDef}(은)는 다른 초집중 시전자들 중에서도 거대한 존재로, 엄청나게 확장된 정신 감응력을 자랑합니다.</HVT_TTraitHaast.degreeDatas.0.description>
+  <!--Original={PAWN_nameDef} is a giant among psycasters, boasting massively expanded psychic sensitivity and passive psyfocus regeneration.-->
+  <HVT_TTraitHaast.degreeDatas.0.description>{PAWN_nameDef}(은)는 다른 초집중 시전자들 사이에서 거인과 같은 존재로, 엄청나게 확장된 정신 감응력과 자동 초집중 재생 능력을 자랑합니다.</HVT_TTraitHaast.degreeDatas.0.description>
   <!--Original=psychic harbinger-->
   <HVT_TTraitHarbinger.degreeDatas.0.label>초능력 전조나무</HVT_TTraitHarbinger.degreeDatas.0.label>
   <!--Original={PAWN_nameDef} can eat corpses to gain some of their skill experience, as well as potentially heal {PAWN_objective}self of an injury or ailment. The chance to heal scales with the corpse&apos;s body size. Moreover, {PAWN_pronoun} defers incoming damage to nearby corpses.-->
@@ -933,7 +933,7 @@
   <!--Original={PAWN_nameDef} has an uncanny sixth sense for weak spots, allowing {PAWN_objective} to topple buildings, strike through armor, and hobble unnatural entities with ease.-->
   <HVT_Vanquisher.degreeDatas.0.description>{PAWN_nameDef}(은)는 약점에 대한 초인적인 육감을 가지고 있어 건물을 무너뜨리고, 갑옷을 뚫고 공격하며, 부자연적 실체들을 손쉽게 제압할 수 있습니다.</HVT_Vanquisher.degreeDatas.0.description>
   <!--Original=compromised-->
-  <HVT_Compromised.degreeDatas.0.label>위태로움</HVT_Compromised.degreeDatas.0.label>
+  <HVT_Compromised.degreeDatas.0.label>장악됨</HVT_Compromised.degreeDatas.0.label>
   <!--Original={PAWN_nameDef} underwent psychoーtechnological reprogramming by an insidious cult. If {PAWN_pronoun} gets too close to a member of the Cult of Horax, there is a chance for {PAWN_possessive} programming to reactivate, causing {PAWN_objective} to instantly join them.-->
   <HVT_Compromised.degreeDatas.0.description>{PAWN_nameDef}(은)는 교활한 사이비에 의해 정신기술적 재조정을 당했습니다. {PAWN_pronoun}(이)가 호락스 사이비 신도에게 너무 가까이 다가가면, {PAWN_possessive} 조정이 재활성화되어 즉시 그들에게 합류할 확률이 있습니다.</HVT_Compromised.degreeDatas.0.description>
   <!--Original=pathogenic-->

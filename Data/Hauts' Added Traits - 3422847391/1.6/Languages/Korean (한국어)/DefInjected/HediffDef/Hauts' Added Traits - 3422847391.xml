@@ -56,6 +56,10 @@
   <HVT_MetaFreak.label>음식이 재미를 주지않음</HVT_MetaFreak.label>
   <!--Original=Prevents those with the &quot;Metabolic Freak&quot; trait from using food for recreation.-->
   <HVT_MetaFreak.description>'신진대사 이상자' 특성을 가진 사람이 음식을 오락으로 사용하는 것을 방지합니다.</HVT_MetaFreak.description>
+  <!--Original=rambunctious-->
+  <HVT_Ramby.label>제멋대로</HVT_Ramby.label>
+  <!--Original=The &apos;Rambunctious&apos; trait may cause this character to run around uncontrollably if meditating or praying, or more rarely while resting or sleeping.-->
+  <HVT_Ramby.description>'제멋대로' 특성은 명상이나 기도 중에, 혹은 드물게 휴식이나 수면 중에 통제 불가능한 상태로 주변을 질주하게 만들 수 있습니다.</HVT_Ramby.description>
   <!--Original=repressed rage-->
   <HVT_RRUnleashed.label>억압된 분노</HVT_RRUnleashed.label>
   <!--Original=The &apos;Repressed Rage&apos; trait grants melee accuracy and damage, move speed, damage reduction, and psychic dullness while social fighting, berserk, or in a murderous or sadistic rage. It also grants a lower amount of these stats while at or below one&apos;s mental break threshold.-->
@@ -92,6 +96,10 @@
   <HVT_WeaponArt_Melee.label>근접 무기 예술</HVT_WeaponArt_Melee.label>
   <!--Original=While wielding a melee weapon, this character gains accuracy with all melee attacks. Melee weapons that can be wielded with shields also grant more melee attack speed, while ones that cannot grant more melee attack damage.-->
   <HVT_WeaponArt_Melee.description>근접 무기를 사용할 때, 이 대상은 모든 근접 공격의 명중률이 증가합니다. 방패와 함께 사용할 수 있는 근접 무기는 근접 공격 속도가 증가하고, 방패와 함께 사용할 수 없는 무기는 근접 피해가 증가합니다.</HVT_WeaponArt_Melee.description>
+  <!--Original=oneーhanded-->
+  <HVT_WeaponArt_Melee.stages.0.label>한손 사용</HVT_WeaponArt_Melee.stages.0.label>
+  <!--Original=twoーhanded-->
+  <HVT_WeaponArt_Melee.stages.1.label>양손 사용</HVT_WeaponArt_Melee.stages.1.label>
   <!--Original=ranged weapon arts-->
   <HVT_WeaponArt_Ranged.label>원거리 무기 예술</HVT_WeaponArt_Ranged.label>
   <!--Original=While wielding a ranged weapon, this character gains accuracy and attack speed with all ranged attacks.-->
@@ -128,6 +136,14 @@
   <HVT_WeaponArt_Ultratech.label>첨단 기술 무기 예술</HVT_WeaponArt_Ultratech.label>
   <!--Original=This character&apos;s intellect is stimulated by the advanced functions of the currently wielded ultratech weapon.-->
   <HVT_WeaponArt_Ultratech.description>이 대상의 지능은 현재 사용 중인 첨단 기술 무기의 고급 기능에 의해 자극받습니다.</HVT_WeaponArt_Ultratech.description>
+  <!--Original=chronic nightmares-->
+  <HVT_TheseNightmaresSureAreChronic.label>만성 악몽</HVT_TheseNightmaresSureAreChronic.label>
+  <!--Original=My god... this street is full of elms...-->
+  <HVT_TheseNightmaresSureAreChronic.description>세상에... 이 거리에는 온통 느릅나무뿐이야...</HVT_TheseNightmaresSureAreChronic.description>
+  <!--Original=vivid dreams-->
+  <HVT_VividDreaming.label>생생한 꿈</HVT_VividDreaming.label>
+  <!--Original=Oh darling, I&apos;ve been dreaming\nThat you would give me everything I need\nThought I had found the meaning\nIt felt a little clearer in my sleep-->
+  <HVT_VividDreaming.description>오 그대여, 나는 꿈을 꾸어왔어\n그대가 내게 필요한 모든 것을 주는 꿈을\n드디어 의미를 찾았다고 생각했지\n잠들어 있는 동안엔 모든 게 조금 더 명확해 보였거든</HVT_VividDreaming.description>
   <!--Original=entitled expectations met-->
   <HVT_Entitlement.label>기대감이 충족된 특권의식</HVT_Entitlement.label>
   <!--Original=In good times, surrounded by luxury and wealth, those with the Entitled trait don&apos;t feel like working all that hard.-->
@@ -736,7 +752,7 @@
   <HVT_THediffOsprey.description>부족의 민속학자들은 새끼를 향한 물수리의 보호와 보살핌에 빗대어, 보호적인 존재감을 발산하는 초능력자들을 묘사합니다.</HVT_THediffOsprey.description>
   <!--Original=transcendent protection-->
   <HVT_OspreyBuff.label>초월적 보호</HVT_OspreyBuff.label>
-  <!--Original=The presence of a nearby transcendent osprey protect this character from harm and fatigue. Incoming damage is reduced by 5.-->
+  <!--Original=The presence of a nearby transcendent osprey protects this character from harm and fatigue. Incoming damage is reduced by 5.-->
   <HVT_OspreyBuff.description>근처에 있는 물수리 초월자의 존재가 이 대상을 피해와 피로로부터 보호하고 있습니다. 받는 피해가 5 감소합니다.</HVT_OspreyBuff.description>
   <!--Original=transcendent oxpecker-->
   <HVT_THediffOxpecker.label>소등쪼기새 초월자</HVT_THediffOxpecker.label>
@@ -844,7 +860,7 @@
   <HVT_THediffScarab.description>부족의 민속학자들은 풍뎅이와 그 빛나는 등껍질을 빗대어, 자신을 감싸는 희미하게 빛나는 힘의 강력한 보호막을 생성하는 초능력자들을 묘사합니다.</HVT_THediffScarab.description>
   <!--Original=transcendent scarab (on cooldown)-->
   <HVT_THediffScarab0.label>풍뎅이 초월자 (재사용 대기 중)</HVT_THediffScarab0.label>
-  <!--Original=Currently unable to intercept damage. Recharge faster by meditating-->
+  <!--Original=Currently unable to intercept damage. Recharge faster by meditating.-->
   <HVT_THediffScarab0.description>현재 피해를 막을 수 없습니다. 명상을 통해 더 빠르게 재충전됩니다.</HVT_THediffScarab0.description>
   <!--Original=scarlet transcendent-->
   <HVT_THediffScarlet.label>진홍색 초월자</HVT_THediffScarlet.label>
@@ -1233,7 +1249,7 @@
   <!--Original=tabula rasa (trait giver)-->
   <HVT_TabulaRasaTraitGiver.label>깨끗한 석판 (특성 부여자)</HVT_TabulaRasaTraitGiver.label>
   <!--Original=This character intermittently gains traits roughly every 2 days. Stops once the max amount of traits has been reached (set in Hauts&apos; Added Traits mod settings).-->
-  <HVT_TabulaRasaTraitGiver.description>이 캐릭터는 약 2일마다 간헐적으로 특성을 얻습니다. 최대 특성 수에 도달하면 멈춥니다. (최대 특성 수는 Hauts' Added Traits 모드 설정에서 정할 수 있습니다)</HVT_TabulaRasaTraitGiver.description>
+  <HVT_TabulaRasaTraitGiver.description>이 대상은 약 2일마다 간헐적으로 특성을 얻습니다. 최대 특성 수에 도달하면 멈춥니다. (최대 특성 수는 Hauts' Added Traits 모드 설정에서 정할 수 있습니다)</HVT_TabulaRasaTraitGiver.description>
   <!--Original=Psychic bond (Clothier)-->
   <HVT_PsychicBondClothier.label>정신 결속 (직물공)</HVT_PsychicBondClothier.label>
   <!--Original=Both psychicallyーbonded individuals benefit from reduced wear and tear of worn apparel.-->
@@ -1246,6 +1262,10 @@
   <HVT_PsychicBondHedonist.label>정신 결속 (유쾌함)</HVT_PsychicBondHedonist.label>
   <!--Original=Both psychicallyーbonded individuals benefit from increased boredom drop rate and skill gain from recreation.-->
   <HVT_PsychicBondHedonist.description>정신적으로 결속된 두 사람 모두 지루함 감소율과 오락을 통한 기술 습득률이 증가하는 이점을 얻습니다.</HVT_PsychicBondHedonist.description>
+  <!--Original=Psychic bond (Sneak)-->
+  <HVT_PsychicBondSneak.label>정신 결속 (은신)</HVT_PsychicBondSneak.label>
+  <!--Original=Both psychicallyーbonded individuals benefit from increased pilfering stealth.-->
+  <HVT_PsychicBondSneak.description>정신적으로 결속된 두 사람 모두 물품을 훔칠 때의 절도 은밀도가 증가하는 이점을 얻습니다.</HVT_PsychicBondSneak.description>
   <!--Original=Psychic bond (Aquatic)-->
   <HVT_PsychicBondMariner.label>정신 결속 (수상)</HVT_PsychicBondMariner.label>
   <!--Original=Both psychicallyーbonded individuals benefit from increased speed in water.-->
