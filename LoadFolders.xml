@@ -2421,6 +2421,7 @@
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
     <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
+    <li IfModActive="Srxf.DeadManSwitch.Legion">Data/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="ZIRI.DeadManSwitch.PowerArmorExpanded">Data/The Dead Man's Switch - Power Armor Expanded - 3654511371/1.6</li>
     <li IfModActive="Berserk.DeadManSwitch.ExperimentalWeapons">Data/The Dead Man's Switch - Shroud Zone Special Force - 3656498257/1.6</li>
@@ -4983,6 +4984,7 @@
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
     <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
+    <li IfModActive="Srxf.DeadManSwitch.Legion">Data/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="ZIRI.DeadManSwitch.PowerArmorExpanded">Data/The Dead Man's Switch - Power Armor Expanded - 3654511371/1.6</li>
     <li IfModActive="Berserk.DeadManSwitch.ExperimentalWeapons">Data/The Dead Man's Switch - Shroud Zone Special Force - 3656498257/1.6</li>
@@ -7546,6 +7548,7 @@
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
     <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
+    <li IfModActive="Srxf.DeadManSwitch.Legion">Data/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="ZIRI.DeadManSwitch.PowerArmorExpanded">Data/The Dead Man's Switch - Power Armor Expanded - 3654511371/1.6</li>
     <li IfModActive="Berserk.DeadManSwitch.ExperimentalWeapons">Data/The Dead Man's Switch - Shroud Zone Special Force - 3656498257/1.6</li>
@@ -10109,6 +10112,7 @@
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
     <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
+    <li IfModActive="Srxf.DeadManSwitch.Legion">Data/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="ZIRI.DeadManSwitch.PowerArmorExpanded">Data/The Dead Man's Switch - Power Armor Expanded - 3654511371/1.6</li>
     <li IfModActive="Berserk.DeadManSwitch.ExperimentalWeapons">Data/The Dead Man's Switch - Shroud Zone Special Force - 3656498257/1.6</li>
