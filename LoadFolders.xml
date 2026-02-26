@@ -820,6 +820,7 @@
     <li IfModActive="Phonicmas.RimDark.Framework">Data/RimDark 40k/RimDark 40k - Framework - 3267464767</li>
     <li IfModActive="HowltheWitch.RimDark.Insignias.Decorations">Data/RimDark 40k/RimDark 40k - Howl's Insignias and Decorations - 3543801411</li>
     <li IfModActive="Phonicmas.RimDark.MankindsFinest">Data/RimDark 40k/RimDark 40k - Mankinds Finest - 3505068525</li>
+    <li IfModActive="Phonicmas.RimDark.MankindsFinest.Armory">Data/RimDark 40k/RimDark 40k - Mankinds Finest Armory - 3658781661/1.6</li>
     <li IfModActive="Shadow.Rimdark.BackDeco">Data/RimDark 40k/RimDark 40k - Shadow's Backpack Decorations - 3544901795</li>
     <li IfModActive="Shadow.RimDark.ChapterFullGene">Data/RimDark 40k/RimDark 40k - Shadow's Full-On Chapters - 3551007951</li>
     <li IfModActive="Portesel.RimDark.SonsPhoenix">Data/RimDark 40k/RimDark 40k - Sons of the Phoenix - 3551395394</li>
@@ -3375,6 +3376,7 @@
     <li IfModActive="Phonicmas.RimDark.Framework">Data/RimDark 40k/RimDark 40k - Framework - 3267464767</li>
     <li IfModActive="HowltheWitch.RimDark.Insignias.Decorations">Data/RimDark 40k/RimDark 40k - Howl's Insignias and Decorations - 3543801411</li>
     <li IfModActive="Phonicmas.RimDark.MankindsFinest">Data/RimDark 40k/RimDark 40k - Mankinds Finest - 3505068525</li>
+    <li IfModActive="Phonicmas.RimDark.MankindsFinest.Armory">Data/RimDark 40k/RimDark 40k - Mankinds Finest Armory - 3658781661/1.6</li>
     <li IfModActive="Shadow.Rimdark.BackDeco">Data/RimDark 40k/RimDark 40k - Shadow's Backpack Decorations - 3544901795</li>
     <li IfModActive="Shadow.RimDark.ChapterFullGene">Data/RimDark 40k/RimDark 40k - Shadow's Full-On Chapters - 3551007951</li>
     <li IfModActive="Portesel.RimDark.SonsPhoenix">Data/RimDark 40k/RimDark 40k - Sons of the Phoenix - 3551395394</li>
@@ -5930,6 +5932,7 @@
     <li IfModActive="Phonicmas.RimDark.Framework">Data/RimDark 40k/RimDark 40k - Framework - 3267464767</li>
     <li IfModActive="HowltheWitch.RimDark.Insignias.Decorations">Data/RimDark 40k/RimDark 40k - Howl's Insignias and Decorations - 3543801411</li>
     <li IfModActive="Phonicmas.RimDark.MankindsFinest">Data/RimDark 40k/RimDark 40k - Mankinds Finest - 3505068525</li>
+    <li IfModActive="Phonicmas.RimDark.MankindsFinest.Armory">Data/RimDark 40k/RimDark 40k - Mankinds Finest Armory - 3658781661/1.6</li>
     <li IfModActive="Shadow.Rimdark.BackDeco">Data/RimDark 40k/RimDark 40k - Shadow's Backpack Decorations - 3544901795</li>
     <li IfModActive="Shadow.RimDark.ChapterFullGene">Data/RimDark 40k/RimDark 40k - Shadow's Full-On Chapters - 3551007951</li>
     <li IfModActive="Portesel.RimDark.SonsPhoenix">Data/RimDark 40k/RimDark 40k - Sons of the Phoenix - 3551395394</li>
@@ -8486,6 +8489,7 @@
     <li IfModActive="Phonicmas.RimDark.Framework">Data/RimDark 40k/RimDark 40k - Framework - 3267464767</li>
     <li IfModActive="HowltheWitch.RimDark.Insignias.Decorations">Data/RimDark 40k/RimDark 40k - Howl's Insignias and Decorations - 3543801411</li>
     <li IfModActive="Phonicmas.RimDark.MankindsFinest">Data/RimDark 40k/RimDark 40k - Mankinds Finest - 3505068525</li>
+    <li IfModActive="Phonicmas.RimDark.MankindsFinest.Armory">Data/RimDark 40k/RimDark 40k - Mankinds Finest Armory - 3658781661/1.6</li>
     <li IfModActive="Shadow.Rimdark.BackDeco">Data/RimDark 40k/RimDark 40k - Shadow's Backpack Decorations - 3544901795</li>
     <li IfModActive="Shadow.RimDark.ChapterFullGene">Data/RimDark 40k/RimDark 40k - Shadow's Full-On Chapters - 3551007951</li>
     <li IfModActive="Portesel.RimDark.SonsPhoenix">Data/RimDark 40k/RimDark 40k - Sons of the Phoenix - 3551395394</li>
